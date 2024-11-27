@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact-form-using-reactjs/static/css/main.89ad13bc.css",
+    "main.js": "/contact-form-using-reactjs/static/js/main.5f75b315.js",
+    "static/js/453.385e8649.chunk.js": "/contact-form-using-reactjs/static/js/453.385e8649.chunk.js",
+    "index.html": "/contact-form-using-reactjs/index.html",
+    "main.89ad13bc.css.map": "/contact-form-using-reactjs/static/css/main.89ad13bc.css.map",
+    "main.5f75b315.js.map": "/contact-form-using-reactjs/static/js/main.5f75b315.js.map",
+    "453.385e8649.chunk.js.map": "/contact-form-using-reactjs/static/js/453.385e8649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ad13bc.css",
+    "static/js/main.5f75b315.js"
+  ]
+}
